@@ -3,7 +3,7 @@
 #include <string>
 #include "Patient.h"
 #include "utils.h"
-
+#include "Time.h"
 #include "Ticket.h"
 sdds::Patient::Patient(int ticket, bool IO):m_ticket(ticket)
 {
